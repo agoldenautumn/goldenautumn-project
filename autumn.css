@@ -16,3 +16,7 @@ p {
   line-height: 28px;
   font-family: PT Mono, monospace;
 }
+h2 {
+  text-align: center;
+  color: black;
+}
